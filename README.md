@@ -14,7 +14,7 @@
 
 ## 💻 Sobre o Projeto
 
-O Be-The-Hero é um projeto teste da Semana OmniStack 11.0 para conectar pessoas que desejam fazer contribuições monetárias a ONG's que necessitam de ajuda para realizar suas atividades.
+O Be-The-Hero é um projeto teste desenvolvido aqui durante a Semana OmniStack 11.0 para conectar pessoas que desejam fazer contribuições monetárias a ONG's que necessitam de ajuda para realizar suas atividades.
 
  ## 💻 Tecnologias do Projeto
 <h4 align="center">
